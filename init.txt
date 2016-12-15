@@ -1,0 +1,16 @@
+empty the folder: [D:\byp\new_set\Temp\]
+ 
+check folder done,OK~: [D:\byp\new_set\Temp\]
+ 
+empty the folder: [D:\byp\new_set\DCF_orig]
+ 
+check folder done,OK~: [D:\byp\new_set\DCF_orig]
+ 
+folder exist,do nothing: D:\byp\new_set\log 
+ 
+check folder done,OK~: [D:\byp\new_set\log]
+ 
+folder exist,do nothing: D:\byp\new_set\Results 
+ 
+check folder done,OK~: [D:\byp\new_set\Results]
+ 
